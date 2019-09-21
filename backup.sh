@@ -1,2 +1,3 @@
 Произвольное содержание
-\n# This is a comment
+# This is a comment
+this is syntax error
